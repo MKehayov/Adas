@@ -2,10 +2,10 @@
 
 An **A**dvanced **DA**ta **S**tructures class-library project. The implemented Data Structures are stable and tested.
 
-# Requirements:
+## Requirements:
   1. .NET Core >= 2.0
 
-# DATA STRUCTURES
+## DATA STRUCTURES
 
 TOBE implemented
 
