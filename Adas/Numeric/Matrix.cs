@@ -14,7 +14,7 @@
             _matrixElements = elements;
         }
 
-        public T Elements {
+        public T[,] Elements {
             get
             {
                 return _matrixElements;
